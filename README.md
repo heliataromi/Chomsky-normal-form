@@ -8,7 +8,7 @@ Inspired by the "Basis for the Theory of Computation" course at university, I ch
 
 - Define context-free grammars with variables, terminals, production rules, and a start variable.
 - Remove epsilon (empty string) productions.
-- Remove unit productions (productions where a variable produces another single variable).
+- Remove unit rules (rules where a variable produces another single variable).
 - Convert CFGs to Chomsky Normal Form.
 
 ## Files
