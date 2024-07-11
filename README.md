@@ -14,7 +14,7 @@ Inspired by the "Basis for the Theory of Computation" course at university, I ch
 ## Files
 
 - `context_free_grammar.py`: Contains the `ContextFreeGrammar` class for representing context-free grammars.
-- `transform_cnf.py`: Contains functions for transforming a CFG to CNF and the main script to execute the transformation.
+- `main.py`: Contains functions for transforming a CFG to CNF and the main script to execute the transformation.
 
 ## How to Use
 
